@@ -1,0 +1,6 @@
+{
+  "name": "Swastha",
+  "description": "The Chronic Care Co-Pilot: Disease-specific food label auditor for PCOS, Diabetes, IBS, and more.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
