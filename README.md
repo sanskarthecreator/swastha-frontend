@@ -32,7 +32,6 @@ We built a **Food Label Decision Support System** that:
 * ⚠ Risky
 * ❌ Avoid
 
-Along with a **simple explanation (why)**
 
 ---
 
