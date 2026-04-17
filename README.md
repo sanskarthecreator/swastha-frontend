@@ -151,14 +151,13 @@ uvicorn app.main:app --reload
 
 ---
 
-## ⚠️ Disclaimer
 
 This system is a **decision-support tool**, not a medical diagnosis system.
 Users should consult professionals for critical health decisions.
 
 ---
 
-## 🏆 Hackathon Edge
+## 🏆 Our solution 
 
 * Solves a **real-world, high-impact problem**
 * Provides **personalized, real-time decisions**
