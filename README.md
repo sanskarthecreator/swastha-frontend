@@ -173,6 +173,3 @@ Built with passion to make everyday health decisions safer.
 
 ## ⭐ If you like this project, give it a star!
 
-<p align="center">
-  <img src="C:\Users\Lenovo\Pictures\Screenshots" width="400" title="Project Logo">
-</p>
