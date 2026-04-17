@@ -1,4 +1,4 @@
-# 🧠 Food Label Decision Support System
+# SWASTHA - Food Label Decision Support System
 
 > Making food choices **safe, smart, and personalized** for people with medical conditions.
 
